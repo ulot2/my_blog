@@ -203,6 +203,10 @@ footer h1 {
     margin: 15px auto;
   }
 
+  .main-post {
+    max-width: 80%;
+  }
+
   .link {
     margin: 10px 10px 0 0;
   }
