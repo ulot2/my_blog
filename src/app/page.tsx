@@ -8,11 +8,13 @@ import Footer from "./Footer";
 export default function Home() {
   return (
     <main>
-      <div className="page-container">
-        <Header />
-        <Posts />
+      <div className="wrapper">
+        <div className="page-container">
+          <Header />
+          <Posts />
+        </div>
+        <Footer />
       </div>
-      <Footer />
     </main>
   );
 }
