@@ -16,10 +16,10 @@ const Header = () => {
         >
           <FaTwitter />
         </Link>
-        <Link href="https://www.instagram.com/tnuell/">
+        <Link className="link" href="https://www.instagram.com/tnuell/">
           <FaInstagram />
         </Link>
-        <Link href="https://www.instagram.com/tnuell/">
+        <Link className="link" href="https://www.instagram.com/tnuell/">
           <FaFacebook />
         </Link>
       </div>
